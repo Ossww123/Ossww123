@@ -36,8 +36,7 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=osw9921&theme=cold)
 
 ### 📧 Contact
-
-<img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+[![Tistory](https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://s-nova.tistory.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osw9921@gmail.com)
 
 </div>
